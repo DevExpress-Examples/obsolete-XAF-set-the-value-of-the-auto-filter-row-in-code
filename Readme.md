@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FilterRowController.cs](./CS/WebSample.Module.Web/FilterRowController.cs) (VB: [FilterRowController.vb](./VB/WebSample.Module.Web/FilterRowController.vb))
+* [Person.cs](./CS/WebSample.Module/Person.cs) (VB: [Person.vb](./VB/WebSample.Module/Person.vb))
+* [Model.xafml](./CS/WebSample.Web/Model.xafml) (VB: [Model.xafml](./VB/WebSample.Web/Model.xafml))
+<!-- default file list end -->
 # OBSOLETE - How to set the value of the Auto Filter Row in code
 
 
