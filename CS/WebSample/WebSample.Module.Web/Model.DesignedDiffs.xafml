@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Application>
-	<SchemaModules>
-		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.3.3.5168" />
-		<SchemaModule Name="SystemModule" Version="8.3.3.5168" IsNewNode="True" />
-		<SchemaModule Name="SystemAspNetModule" Version="8.3.3.5168" IsNewNode="True" />
-		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.3.3.5168" IsNewNode="True" />
-	</SchemaModules>
-</Application>
